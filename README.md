@@ -1,2 +1,9 @@
 # K-Value_Plots
-This code plots field data Hydraulic Conductivity (K) values onto the Theoretical Freeze &amp; Cherry Hydraulic Conductivity Range Plots
+## Objective:
+This code plots field Hydraulic Conductivity (K) values onto the Theoretical Freeze & Cherry's Hydraulic Conductivity Range Plot.
+
+## Input Data:
+
+## Output:
+
+##Requirements:
