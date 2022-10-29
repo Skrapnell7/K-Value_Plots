@@ -10,8 +10,7 @@ Source:
 * Field data template:  *AQT_KValues.csv*
 
 ## Output:
-![K_Plot1](https://user-images.githubusercontent.com/82328087/198812473-39ae56eb-57be-4485-868c-bc69d74524db.png)
-
+![K_Plot1](https://user-images.githubusercontent.com/82328087/198813339-bf3c3b61-e572-471b-9af7-b45dd7c18d94.png)
 
 ## Requirements:
 * Pandas
