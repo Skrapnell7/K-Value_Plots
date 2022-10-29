@@ -1,5 +1,5 @@
-Bore_ID,Area,Formation,K-value (m/d)
-NKW-TW01,NKW,Fractured Igneous and Metamorphic Rocks,16.2
-DSM-TW01,DSME,Limestone and Dolomite,0.0128
-DSME-VWP01,DSME,Weathered Granite,0.3
-DSWM-MP02,DSWM,Unfractured Igneous and Metamorphic Rocks,0.000003
+Bore_ID,Area,Fn_Name_basedOnFreez&Cherry,K-value (m/d)
+TMB-TW01,South,Fractured Igneous and Metamorphic Rocks,16.2
+TMB-TW02,North,Limestone and Dolomite,0.0128
+DME-VWP01,North,Weathered Granite,0.3
+SWM-MP02,East,Unfractured Igneous and Metamorphic Rocks,0.000003
